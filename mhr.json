@@ -1,0 +1,178 @@
+{
+    "Singapore": {
+        "Aliases": [
+            "singapore",
+            "singapura"
+        ],
+        "Data": {
+            "Institute of Mental Health's 24-hour helpline": "6389-2222",
+            "Samaritans of Singapore": "https://www.sos.org.sg/contact-us/",
+            "Singapore Association for Mental Health": "1800-283-7019",
+            "TOUCHline (Touch Community Services)": "1800-377-2252"
+        }
+    },
+    "Malaysia": {
+        "Aliases": [
+            "malaya",
+            "malaysia"
+        ],
+        "Data": {
+            "The Malaysian Mental Health Association (MMHA)": "Phone: +603 2780 6803 (Mon.-Fri. 9am-5pm, except public holidays)\nWebsite: www.mmha.org.my",
+            "Talian Kasih 15999": "Phone: 15999 or WhatsApp: +60192615999\nWebsite: www.kpwkm.gov.my"
+        }
+    },
+    "United States of America": {
+        "Aliases": [
+            "united states",
+            "united states of america"
+        ],
+        "Data": {
+            "National Suicide Prevention Lifeline": "988",
+            "National Alliance on Mental Illness": "1-800-950-6264",
+            "National Institute of Mental Health": "1-800-950-6264",
+            "Crisis Text Line": "Text HOME to 741741"
+        }
+    },
+    "United Kingdom": {
+        "Aliases": [
+            "uk",
+            "united kingdom",
+            "britain",
+            "england",
+            "united kingdom of great britain and northern ireland"
+        ],
+        "Data": {
+            "Samaritans": "116 123",
+            "Mind": "0300 123 3393",
+            "Childline": "0800 1111",
+            "NHS 24-hour mental health phone line": "111 (select mental health option)"
+        }
+    },
+    "India": {
+        "Aliases": [
+            "india",
+            "भारत"
+        ],
+        "Data": {
+            "Vandrevala Foundation": "9999666555",
+            "Tele MANAS": "14416",
+            "MPower Minds": "1800-120-820050",
+            "Fortis": "+91-8376804102"
+        }
+    },
+    "Australia": {
+        "Aliases": [
+            "australia"
+        ],
+        "Data": {
+            "Lifeline": "13 11 14",
+            "Beyond Blue": "1300 22 4636",
+            "Kids Helpline": "1800 55 1800",
+            "Suicide Call Back Service": "1300 659 467"
+        }
+    },
+    "Canada": {
+        "Aliases": [
+            "canada"
+        ],
+        "Data": {
+            "Crisis Services Canada": "1-833-456-4566",
+            "Kids Help Phone": "1-800-668-6868",
+            "Suicide Prevention Service": "1-833-456-4566",
+            "Text Support": "Text 45645"
+        }
+    },
+    "Ireland": {
+        "Aliases": [
+            "ireland"
+        ],
+        "Data": {
+            "Samaritans": "116 123",
+            "Pieta House": "1800 247 247",
+            "Childline": "1800 666 666",
+            "Aware": "1800 804 848"
+        }
+    },
+    "South Africa": {
+        "Aliases": [
+            "south africa"
+        ],
+        "Data": {
+            "Suicide Crisis Helpline": "0800 567 567",
+            "Lifeline South Africa": "0861 322 322",
+            "Childline South Africa": "0800 055 555",
+            "SADAG (South African Depression and Anxiety Group)": "011 234 4837"
+        }
+    },
+    "New Zealand": {
+        "Aliases": [
+            "new zealand"
+        ],
+        "Data": {
+            "Lifeline New Zealand": "0800 543 354",
+            "Samaritans New Zealand": "0800 726 666",
+            "Youthline": "0800 376 633",
+            "Depression Helpline": "0800 111 757"
+        }
+    },
+    "Germany": {
+        "Aliases": [
+            "germany",
+            "deutschland"
+        ],
+        "Data": {
+            "Telefonseelsorge": "0800 111 0 111 or 0800 111 0 222",
+            "Deutsche Depressionshilfe": "0800 33 44 533",
+            "Jugendnotmail": "0800 111 0 333",
+            "Sorgentelefon": "0800 111 0 444"
+        }
+    },
+    "France": {
+        "Aliases": [
+            "france",
+            "la france"
+        ],
+        "Data": {
+            "SOS Suicide": "01 45 39 40 00",
+            "SOS Help": "01 46 21 46 46",
+            "Fil Santé Jeunes": "0800 235 236",
+            "Croix-Rouge Ecoute": "0 800 858 858"
+        }
+    },
+    "Japan": {
+        "Aliases": [
+            "japan",
+            "日本"
+        ],
+        "Data": {
+            "TELL Lifeline": "03 5774 0992",
+            "Tokyo Mental Health": "03 5774 0992",
+            "Samaritans Japan": "03 5774 0992",
+            "Japan Suicide Prevention Association": "03 5286 9090"
+        }
+    },
+    "Brazil": {
+        "Aliases": [
+            "brazil",
+            "brasil"
+        ],
+        "Data": {
+            "CVV (Centro de Valorização da Vida)": "188",
+            "SOS Vida": "141",
+            "Associação Brasileira de Psiquiatria": "0800 970 0513",
+            "Núcleo de Apoio à Vida": "0800 141 141"
+        }
+    },
+    "Mexico": {
+        "Aliases": [
+            "mexico",
+            "méxico"
+        ],
+        "Data": {
+            "Línea Nacional contra el Suicidio": "800 911 2000",
+            "Línea Nacional contra el Bullying": "800 2000 2000",
+            "Línea Nacional contra la Violencia Familiar": "800 911 4002",
+            "Línea Nacional contra la Violencia de Género": "800 822 6605"
+        }
+    }
+}
