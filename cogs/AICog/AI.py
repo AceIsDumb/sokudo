@@ -14,7 +14,7 @@ from datetime import datetime
 import re
 
 # configure key
-genai.configure(api_key=os.environ['GAI'])
+genai.configure(api_key="KEY")
 
 # words to bad/replace
 bad_words = {
