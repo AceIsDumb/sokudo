@@ -8,4 +8,4 @@ pip install requests
 pip install Pillow
 pip install python-dotenv
 echo "Starting Sokudo"
-python main.py
+python3 main.py

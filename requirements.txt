@@ -3,4 +3,3 @@ google-generativeai
 requests
 Pillow
 python-dotenv
-shutil
