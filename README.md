@@ -1,4 +1,9 @@
-# Disnake Bot Cogs
+# Sokudo!
+
+This is a discord bot built on Gemini 2.0's API built for mental health!
+
+
+## Disnake Bot Cogs
 
 ## Overview
 
